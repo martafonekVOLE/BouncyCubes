@@ -37,3 +37,12 @@
 `D` - move player right
 
 `space` - jump/megajump
+- Mouse (used for grappling)
+
+`Mouse movement` - aim the Grapple
+
+`Left mouse hold` - attach Grapple
+
+`Left mouse release` - detach Grapple
+
+`**NOTE**` Grapple can only be used on Ground, Lamps and Trees
